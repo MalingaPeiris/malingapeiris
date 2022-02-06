@@ -2,6 +2,7 @@
 
 Let's get connected : [<img src='https://github.com/MalingaPeiris/malingapeiris/blob/main/linkedin.png' alt='linkedin' height='30'>](https://www.linkedin.com/in/malinga-peiris/) 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=malingapeiris&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 https://github-profile-trophy.vercel.app/?username=malingapeiris&theme=tokyonight
 
 <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=malingapeiris&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Malinga github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malingapeiris&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" /></a> |
