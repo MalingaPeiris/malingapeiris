@@ -1,4 +1,7 @@
-### Hi there 👋 **Malinga Peiris**
+### Hi there 👋, I’m Malinga Peiris
+I am UI/UX Designer | Front-End Developer | WordPress Developer
+
+Skills: JS / HTML / CSS / WordPress / Figma / PHP
 
 Let's get connected :  [<img src='https://github.com/MalingaPeiris/malingapeiris/blob/main/linkedin.png' alt='linkedin' height='20'>](https://www.linkedin.com/in/malinga-peiris/)   
 
@@ -8,12 +11,7 @@ Let's get connected :  [<img src='https://github.com/MalingaPeiris/malingapeiris
 <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=malingapeiris&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Malinga github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malingapeiris&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" /></a> |
 | ------------- | ------------- |
 
-<a href="#"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=malingapeiris&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Malinga github stats" /></a> | <a href="#"><img align="center" src="https://activity-graph.herokuapp.com/graph?username=malingapeiris&theme=react-dark&hide_border=true&area=true" /></a> |
-| ------------- | ------------- |
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=malingapeiris&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117)  
-
-<!--![Contribution](https://activity-graph.herokuapp.com/graph?username=malingapeiris&theme=react-dark&hide_border=true&area=true)-->
+![Contribution](https://activity-graph.herokuapp.com/graph?username=malingapeiris&theme=react-dark&hide_border=true&area=true)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=malingapeiris&theme=tokyonight&title=Followers,Commits&margin-w=20&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
