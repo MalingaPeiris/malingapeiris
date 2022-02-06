@@ -3,7 +3,7 @@
 
 Skills: JS / HTML / CSS / WordPress / Figma / PHP
 
-Let's get connected in  [<img src='https://github.com/MalingaPeiris/malingapeiris/blob/main/linkedin.png' alt='linkedin' height='20'>](https://www.linkedin.com/in/malinga-peiris/)   
+Let's get connected on  [<img src='https://github.com/MalingaPeiris/malingapeiris/blob/main/linkedin.png' alt='linkedin' height='20'>](https://www.linkedin.com/in/malinga-peiris/)   
 
 
 
@@ -13,8 +13,7 @@ Let's get connected in  [<img src='https://github.com/MalingaPeiris/malingapeiri
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=malingapeiris&theme=react-dark&hide_border=true&area=true)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=malingapeiris&theme=tokyonight&title=Followers,Commits&margin-w=20&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=malingapeiris&theme=tokyonight&title=Followers,Commits&margin-w=20&no-frame=true)]
 ![Profile views](https://gpvc.arturio.dev/malingapeiris)  
 
 <!--
