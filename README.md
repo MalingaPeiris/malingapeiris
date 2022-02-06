@@ -1,7 +1,7 @@
 # Hellow World! 👋, It's Malinga Peiris
-##UI/UX Designer | Front-End Developer | WordPress Developer
+## UI/UX Designer | Front-End Developer | WordPress Developer
 
-##Skills: JS / HTML / CSS / WordPress / Figma / PHP
+## Skills: JS / HTML / CSS / WordPress / Figma / PHP
 
 Let's get connected in  [<img src='https://github.com/MalingaPeiris/malingapeiris/blob/main/linkedin.png' alt='linkedin' height='20'>](https://www.linkedin.com/in/malinga-peiris/)   
 
