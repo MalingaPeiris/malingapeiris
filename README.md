@@ -11,6 +11,8 @@ Let's get connected :  [<img src='https://github.com/MalingaPeiris/malingapeiris
 <a href="#"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=malingapeiris&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Malinga github stats" /></a> | <a href="#"><img align="center" src="https://activity-graph.herokuapp.com/graph?username=malingapeiris&theme=react-dark&hide_border=true&area=true" /></a> |
 | ------------- | ------------- |
 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=malingapeiris&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117)  
+
 <!--![Contribution](https://activity-graph.herokuapp.com/graph?username=malingapeiris&theme=react-dark&hide_border=true&area=true)-->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=malingapeiris&theme=tokyonight&title=Followers,Commits&margin-w=20&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
