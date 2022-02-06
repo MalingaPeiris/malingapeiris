@@ -1,9 +1,9 @@
 ### Hi there 👋 **Malinga Peiris**
 
-Let's get connected : [<img src='https://github.com/MalingaPeiris/malingapeiris/blob/main/linkedin.png' alt='linkedin' height='30'>](https://www.linkedin.com/in/malinga-peiris/) 
+Let's get connected :  [<img src='https://github.com/MalingaPeiris/malingapeiris/blob/main/linkedin.png' alt='linkedin' height='20'>](https://www.linkedin.com/in/malinga-peiris/)    [<img src='https://github.com/MalingaPeiris/malingapeiris/blob/main/codepen.png' alt='codepen' height='40'>](https://codepen.io/malingozilla)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=malingapeiris&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
-https://github-profile-trophy.vercel.app/?username=malingapeiris&theme=tokyonight
+[![trophy](https://github-profile-trophy.vercel.app/?username=malingapeiris&theme=tokyonight&title=Followers,Commits&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=malingapeiris&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Malinga github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malingapeiris&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" /></a> |
 | ------------- | ------------- |
