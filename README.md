@@ -1,4 +1,4 @@
-# Hellow World! 👋, It's Malinga Peiris
+# Greetings Citizens Of The World!, It's Malinga Peiris
 ## UI/UX Designer | Front-End Developer | WordPress Developer
 
 Skills: JS / HTML / CSS / WordPress / Figma / PHP
